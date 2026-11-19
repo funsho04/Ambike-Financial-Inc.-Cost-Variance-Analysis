@@ -20,7 +20,9 @@ _As shown in the dashboard graphs (Divisional Variance, AI Base vs. Extra Credit
 
 • Compute Intensity over Headcount: R&D headcount increased by just **1 user (20 to 21, +5%)**, whereas average extra credit cost surged from **$125 to $781 per user (-524.8%)**, proving workload intensity drove the variance.	  
 
-• Underlying Efficiency: Core R&D operations achieved **-$1,500** in baseline savings, confirming standard workflows remained highly efficient.															
+• Underlying Efficiency: Core R&D operations achieved **-$1,500** in baseline savings, confirming standard workflows remained highly efficient.		
+
+![](Cost_Variance_Analysis.xlsx)	
 
 
 
