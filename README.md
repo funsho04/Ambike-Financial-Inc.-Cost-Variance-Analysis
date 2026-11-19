@@ -18,7 +18,8 @@ _As shown in the dashboard graphs (Divisional Variance, AI Base vs. Extra Credit
 • R&D President Confirmation: Official correspondence confirms the onboarding of 6 additional engineers for Project Catalyst, directly explaining the unbudgeted scale.	    														
 • AI Cost Concentration: **96.6% of the company's total cost variance ($14,130 out of $14,630)** is driven by AI cost overruns, primarily within **R&D ($16,400 in extra credits)**.	
 
-• Compute Intensity over Headcount: R&D headcount increased by just **1 user (20 to 21, +5%)**, whereas average extra credit cost surged from **$125 to $781 per user (-524.8%)**, proving workload intensity drove the variance.	    														
+• Compute Intensity over Headcount: R&D headcount increased by just **1 user (20 to 21, +5%)**, whereas average extra credit cost surged from **$125 to $781 per user (-524.8%)**, proving workload intensity drove the variance.	  
+
 • Underlying Efficiency: Core R&D operations achieved **-$1,500** in baseline savings, confirming standard workflows remained highly efficient.															
 
 
