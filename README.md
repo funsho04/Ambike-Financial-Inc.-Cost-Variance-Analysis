@@ -9,7 +9,7 @@
 #### 2. Financial Performance								
 The table below details category-level variances, demonstrating that budget deviation is isolated entirely to AI and R&D compute expansion.							
 
-![](Cost Analysis by Categories.png)			![](Cost Analysis by Division.png)
+![](Cost_Analysis_by_Categories.png)			![](Cost_Analysis_by_Division.png)
 															
 															
 															
