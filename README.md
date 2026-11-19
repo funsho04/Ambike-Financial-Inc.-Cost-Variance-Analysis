@@ -13,7 +13,13 @@ The table below details category-level variances, demonstrating that budget devi
 
 _As shown in the dashboard graphs (Divisional Variance, AI Base vs. Extra Credits, R&D User Count, Extra Credit Cost/User, and R&D Cost Bridge), actual spend across Sales, Marketing, Operations, and G&A tracks tightly to budget. R&D extra credits surged to **$16,400 (averaging $781/user vs. $125 budgeted)**, perfectly bridging the R&D cost overrun from the **$5,500** opening budget through **-$1,500** baseline savings and **+$15,400** Project Catalyst scaling to **$19,550** actual spend._																
 																
-*****															
+*****		
+#### 3. Key Observations															
+• R&D President Confirmation: Official correspondence confirms the onboarding of 6 additional engineers for Project Catalyst, directly explaining the unbudgeted scale.															
+• AI Cost Concentration: **96.6% of the company's total cost variance ($14,130 out of $14,630)** is driven by AI cost overruns, primarily within **R&D ($16,400 in extra credits)**.															
+• Compute Intensity over Headcount: R&D headcount increased by just **1 user (20 to 21, +5%)**, whereas average extra credit cost surged from **$125 to $781 per user (-524.8%)**, proving workload intensity drove the variance.															
+• Underlying Efficiency: Core R&D operations achieved **-$1,500** in baseline savings, confirming standard workflows remained highly efficient.															
+
 
 
 															
