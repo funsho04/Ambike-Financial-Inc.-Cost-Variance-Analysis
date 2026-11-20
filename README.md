@@ -37,11 +37,11 @@ _As shown in the dashboard graphs (Divisional Variance, AI Base vs. Extra Credit
 #### 5. Conclusion																
 While the +$14,130 (+132.7%) budget overrun appears substantial on a percentage basis, it is clearly isolated to a single, identifiable operational driver—Project Catalyst—rather than systemic cost inefficiency across Ambike Financial Inc. By promptly integrating the remaining two-month run-rate into the Q4 re-forecast, confirming client cost recovery mechanisms, and instituting usage controls, leadership can effectively manage the financial impact through year-end while maintaining delivery momentum on the client initiative.																
 																
-																
-																
-																
-<img width="1598" height="112" alt="image" src="https://github.com/user-attachments/assets/c6ba3d2e-92f2-45af-9202-2472f5bbd54e" />
+*****
 
+Dataset View
+- <a href="https://github.com/funsho04/Cost-Variance-Analysis/blob/main/Cost_Variance_Analysis.xlsx">Dataset view</a>
+																
 															
 
 
