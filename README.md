@@ -25,13 +25,12 @@ _As shown in the dashboard graphs (Divisional Variance, AI Base vs. Extra Credit
 
 • Underlying Efficiency: Core R&D operations achieved **-$1,500** in baseline savings, confirming standard workflows remained highly efficient.		
 
-Dataset Used
-Dataset View
-- <a href="https://github.com/funsho04/Cost-Variance-Analysis/blob/main/Cost_Variance_Analysis.xlsx">Dataset view</a>
+******
+4. Management Recommendations									
+1. Incorporate Project Catalyst into Q4 Re-Forecast: Adjust rolling forecasts to capture ongoing project credit consumption.									
+2. Verify Client Contract Billability: Confirm pass-through billing status for Project Catalyst compute to ensure margin recovery.									
+3. Implement AI Guardrails: Establish automated spend alerts and approval workflows when credit consumption exceeds baseline allocations.									
 
-
-<img width="1305" height="555" alt="Financial_Performance" src="https://github.com/user-attachments/assets/cc5cb194-0fd6-416d-aa8e-2f92446bda60"/>Dataset view</a>
-													
 															
 
 
