@@ -8,7 +8,9 @@
 *****
 #### 2. Financial Performance								
 The table below details category-level variances, demonstrating that budget deviation is isolated entirely to AI and R&D compute expansion.							
+
 -Dashboard
+- <a href="https://github.com/funsho04/Cost-Variance-Analysis/blob/main/Financial_Performance.png">Dashboard view</a>
 ![](Financial_Performance.png)						
 
 _As shown in the dashboard graphs (Divisional Variance, AI Base vs. Extra Credits, R&D User Count, Extra Credit Cost/User, and R&D Cost Bridge), actual spend across Sales, Marketing, Operations, and G&A tracks tightly to budget. R&D extra credits surged to **$16,400 (averaging $781/user vs. $125 budgeted)**, perfectly bridging the R&D cost overrun from the **$5,500** opening budget through **-$1,500** baseline savings and **+$15,400** Project Catalyst scaling to **$19,550** actual spend._																
@@ -27,7 +29,7 @@ Dataset View
 - <a href="https://github.com/funsho04/Cost-Variance-Analysis/blob/main/Cost_Variance_Analysis.xlsx">Dataset view</a>
 
 Dashboard
-- <a href="https://github.com/funsho04/Cost-Variance-Analysis/blob/main/Financial_Performance.png">Dashboard view</a>
+
 
 		<img width="1305" height="555" alt="Financial_Performance" src="https://github.com/user-attachments/assets/cc5cb194-0fd6-416d-aa8e-2f92446bda60" />
 													
